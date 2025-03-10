@@ -1,2 +1,2 @@
-# Data-Science-Bootcamp---Certificate
+# Data Science Bootcamp Certificate
 Certified Data Science Professional
